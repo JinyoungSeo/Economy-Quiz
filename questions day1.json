@@ -1,0 +1,44 @@
+[
+{
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "questionNumber": 1,
+    "choice1": "<script>",
+    "choice2": "answer2",
+    "choice3": "answer3",
+    "choice4": "answer4",
+    "answer": 1
+},
+{
+    "question": "Q2",
+    "choice1": "answer1",       
+    "choice2": "answer2",
+    "choice3": "answer3",
+    "choice4": "answer4",
+    "answer": 2
+},                                          
+{
+    "question": "Q3",
+    "choice1": "answer1",
+    "choice2": "answer2",
+    "choice3": "answer3",
+    "choice4": "answer4",
+    "answer": 3
+},
+{
+    "question": "Q4?",
+    "choice1": "<script>",
+    "choice2": "answer2",
+    "choice3": "answer3",
+    "choice4": "answer4",
+    "answer": 1
+},
+{
+    "question": "Q5?",
+    "choice1": "<script>",
+    "choice2": "answer2",
+    "choice3": "answer3",
+    "choice4": "answer4",
+    "answer": 1
+}          
+
+]
